@@ -1,0 +1,35 @@
+.Logn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #334366;
+   
+}
+.Register{
+    text-transform: uppercase;
+    text-decoration: dotted;
+    overflow: auto;
+    position: relative;
+   
+    /* border: 2px solid red; */
+    border:  transparent;
+    border-radius: 20px;
+    padding: 10px;
+    line-height: 1.2;
+}
+.anchor{
+     background-color: #334366;
+     margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    
+}
+.logo{
+     margin-left: 20px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: black;
+}
